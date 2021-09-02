@@ -1,4 +1,4 @@
-### Olá! Eu sou MatheusSousa29
+### Acadêmico em Sistemas para Internet - UniCesumar  👨‍💻
 
 <div>
   <a href="https://github.com/MatheusSousa29">
