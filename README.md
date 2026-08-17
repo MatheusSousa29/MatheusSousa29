@@ -1,5 +1,5 @@
 
-### Ola! Meu nome e Matheus e sou Acadêmico em Análise e Desenvolvimento de Sistemas👨‍💻 // Aspirante a area de Front-End Developer // Em busca da primeira vaga!
+### Analista de SOC em formação | Foco em Blue Team, Análise de Logs e Defesa cibernética. Cursando ADS.
 
 <div align="center">
   <a href="https://github.com/MatheusSousa29/">
